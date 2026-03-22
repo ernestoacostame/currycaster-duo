@@ -1,4 +1,4 @@
-Podcast playback software developed and used by Adam Curry on *The No Agenda Show* as well as on many other podcasts that record live and in real time adapted for use on the RODECaster Duo in conjunction with [RODECaster Duo PiperWire] (https://github.com/ernestoacostame/rodecaster-duo-pipewire).
+Podcast playback software developed and used by Adam Curry on *The No Agenda Show* as well as on many other podcasts that record live and in real time adapted for use on the RODECaster Duo in conjunction with [RODECaster Duo PiperWire](https://github.com/ernestoacostame/rodecaster-duo-pipewire).
 
 # Currycaster
 
